@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/eduardo/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/eduardo/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/eduardo/ros2_ws/src/build/planners",
+        "/home/eduardo/ros2_ws/src/install/planners/lib/python3.10/site-packages",
+        "/home/eduardo/ros2_ws/src/build/my_robot_controller",
+        "/home/eduardo/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/eduardo/ros2_ws/src/build/controllers",
+        "/home/eduardo/ros2_ws/src/install/controllers/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/eduardo/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/eduardo/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/eduardo/ros2_ws/src/build/planners",
+        "/home/eduardo/ros2_ws/src/install/planners/lib/python3.10/site-packages",
+        "/home/eduardo/ros2_ws/src/build/my_robot_controller",
+        "/home/eduardo/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/eduardo/ros2_ws/src/build/controllers",
+        "/home/eduardo/ros2_ws/src/install/controllers/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
